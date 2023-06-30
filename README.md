@@ -42,7 +42,8 @@ You can find it [here](./security.ino)
 
 
 <br/>
-## :clapper:  Watch it
+
+## [:clapper:  Watch it](https://www.youtube.com/watch?v=HtH-oBYSZ9g)
 
 [Click here](https://www.youtube.com/watch?v=HtH-oBYSZ9g)
 
