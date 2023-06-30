@@ -13,7 +13,7 @@ A simple security system that, when a presence is detected, activates an LED and
 
 ### Required materials
 
-| Quantidade | Nome | Link para referência |
+| Quantity | Name | Reference link |
 | --- | --- | --- |
 | 1 | Keypad 4x4| https://www.baudaeletronica.com.br/produto/teclado-matricial-de-membrana-16-teclas.html |
 | 1 | PIR Presence and Motion Sensor | https://www.baudaeletronica.com.br/produto/sensor-de-presenca-e-movimento-pir.html |
